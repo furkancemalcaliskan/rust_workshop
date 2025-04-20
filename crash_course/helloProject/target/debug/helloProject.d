@@ -1,0 +1,1 @@
+/home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/helloProject/target/debug/helloProject: /home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/helloProject/src/main.rs

@@ -1,0 +1,1 @@
+/home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/compound_data_types/target/debug/compound_data_types: /home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/compound_data_types/src/main.rs

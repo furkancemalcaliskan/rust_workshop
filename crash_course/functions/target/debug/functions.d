@@ -1,0 +1,1 @@
+/home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/functions/target/debug/functions: /home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/functions/src/main.rs
