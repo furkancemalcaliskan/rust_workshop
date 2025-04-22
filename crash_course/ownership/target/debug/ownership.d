@@ -1,0 +1,1 @@
+/home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/ownership/target/debug/ownership: /home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/ownership/src/main.rs
