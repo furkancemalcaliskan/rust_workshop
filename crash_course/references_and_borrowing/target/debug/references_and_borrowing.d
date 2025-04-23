@@ -1,0 +1,1 @@
+/home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/references_and_borrowing/target/debug/references_and_borrowing: /home/furkancemalcaliskan/Documents/dejkoveci/rust_workshop/crash_course/references_and_borrowing/src/main.rs
